@@ -1,6 +1,6 @@
 # Object-Detection-System
 ---------------------------------------------------------------------------------------
-#Demo
+# Demo
 
 ![](https://github.com/developer-venish/Object-Detection-System/blob/main/1.png)
 
